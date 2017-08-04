@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+A .git directory will be created and it is done using git init.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It acts as an intermediate area bwtween the working directory and a repository.
