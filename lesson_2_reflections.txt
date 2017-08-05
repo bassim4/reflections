@@ -12,3 +12,8 @@ I guess when you try to add a new expremental feature to try it out.
 How do the diagrams help you visualize the branch structure?
 They will give visual representation to the log.
 ******
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+******
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+******
